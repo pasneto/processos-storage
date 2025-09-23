@@ -1022,13 +1022,25 @@
   {
     "hashProcesso": "89712ee65d5de8c7e3d026d125d22641dd974f9380c4f09585622d911e2fe5b0",
     "timestamp": "2025-09-23T11:05:16.057Z",
-    "CPF": "faltando zero no início",
+    "CPF": "faltando zero no inï¿½cio",
     "Nascimento": "iguais",
     "Nome Principal": "iguais",
-    "Nome da Mãe": "iguais",
+    "Nome da Mï¿½e": "iguais",
     "Nome do Pai": "iguais",
     "Sexo": "iguais",
     "criadoEm": "2025-09-23T11:05:16.440Z",
     "atualizadoEm": "2025-09-23T11:05:16.440Z"
+  },
+  {
+    "hashProcesso": "9e76a3ae998d8beb8b69eb9e5311ab65347860aaa36704ac8bcf1c048c427f72",
+    "timestamp": "2025-09-23T11:05:27.131Z",
+    "CPF": "iguais",
+    "Nascimento": "iguais",
+    "Nome Principal": "iguais",
+    "Nome da Mãe": "iguais",
+    "Nome do Pai": "diferentes",
+    "Sexo": "iguais",
+    "criadoEm": "2025-09-23T11:05:27.368Z",
+    "atualizadoEm": "2025-09-23T11:05:27.368Z"
   }
 ]
