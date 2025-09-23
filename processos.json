@@ -1097,10 +1097,22 @@
     "CPF": "ausente",
     "Nascimento": "iguais",
     "Nome Principal": "iguais",
-    "Nome da Mãe": "iguais",
+    "Nome da Mï¿½e": "iguais",
     "Nome do Pai": "branco_vs_desconhecido",
     "Sexo": "iguais",
     "criadoEm": "2025-09-23T11:07:36.604Z",
     "atualizadoEm": "2025-09-23T11:07:36.604Z"
+  },
+  {
+    "hashProcesso": "aabbe68d059d6bf586fef5b515a8df4c782ddd6411764e95162e6bcd18f7b02e",
+    "timestamp": "2025-09-23T11:07:45.856Z",
+    "CPF": "iguais",
+    "Nascimento": "iguais",
+    "Nome Principal": "iguais",
+    "Nome da Mãe": "iguais",
+    "Nome do Pai": "branco_vs_desconhecido",
+    "Sexo": "iguais",
+    "criadoEm": "2025-09-23T11:07:46.232Z",
+    "atualizadoEm": "2025-09-23T11:07:46.232Z"
   }
 ]
