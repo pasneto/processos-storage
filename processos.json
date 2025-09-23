@@ -1,41 +1,6 @@
 [
  
-  {
-    "hashProcesso": "d40d9b725671868b9fb9d2791a4e9e5f4e0cf9710538061433b4bee3cf05e416",
-    "timestamp": "2025-09-23T00:38:39.597Z",
-    "CPF": "iguais",
-    "Nascimento": "iguais",
-    "Nome Principal": "iguais",
-    "Nome da MÃƒÆ’Ã‚Â£e": "iguais",
-    "Nome do Pai": "diferentes",
-    "Sexo": "iguais",
-    "criadoEm": "2025-09-23T00:38:39.845Z",
-    "atualizadoEm": "2025-09-23T00:38:39.845Z"
-  },
-  {
-    "hashProcesso": "ecbc41571b4cacf6f7e758009f2c0961664bbb573161a67739e6c46834edc389",
-    "timestamp": "2025-09-23T00:39:20.110Z",
-    "CPF": "iguais",
-    "Nascimento": "iguais",
-    "Nome Principal": "iguais",
-    "Nome da MÃƒÂ£e": "iguais",
-    "Nome do Pai": "iguais",
-    "Sexo": "iguais",
-    "criadoEm": "2025-09-23T00:39:20.438Z",
-    "atualizadoEm": "2025-09-23T00:39:20.438Z"
-  },
-  {
-    "hashProcesso": "3789a4c470e7b9f0c8b161dbcb93b2d9453db585b0efd84d1858797bce0638cc",
-    "timestamp": "2025-09-23T00:39:31.313Z",
-    "CPF": "iguais",
-    "Nascimento": "iguais",
-    "Nome Principal": "iguais",
-    "Nome da MÃ£e": "iguais",
-    "Nome do Pai": "iguais",
-    "Sexo": "iguais",
-    "criadoEm": "2025-09-23T00:39:31.539Z",
-    "atualizadoEm": "2025-09-23T00:39:31.539Z"
-  },
+
   {
     "hashProcesso": "82136e3ad372d32a72570309c24cd8dc113cfc893fe460b2112dd5ace7e7ad73",
     "timestamp": "2025-09-23T00:39:59.843Z",
