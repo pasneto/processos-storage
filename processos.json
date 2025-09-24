@@ -1018,5 +1018,17 @@
     "Sexo": "iguais",
     "criadoEm": "2025-09-24T18:05:46.637Z",
     "atualizadoEm": "2025-09-24T18:05:46.637Z"
+  },
+  {
+    "hashProcesso": "01e1d014f37e80036a02bb963055a263b316b853266175766616ca058d4b676e",
+    "timestamp": "2025-09-24T18:05:50.337Z",
+    "CPF": "iguais",
+    "Nascimento": "iguais",
+    "Nome Principal": "iguais",
+    "Nome da Mãe": "iguais",
+    "Nome do Pai": "branco_vs_desconhecido",
+    "Sexo": "iguais",
+    "criadoEm": "2025-09-24T18:05:50.586Z",
+    "atualizadoEm": "2025-09-24T18:05:50.586Z"
   }
 ]
