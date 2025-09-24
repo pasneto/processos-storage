@@ -1009,15 +1009,15 @@
   },
   {
     "hashProcesso": "d774262a40a8535f909370156c6183c6ee7f69cbf28dbb31debc9a8ac1eb0053",
-    "timestamp": "2025-09-24T18:06:40.021Z",
+    "timestamp": "2025-09-24T19:00:28.999Z",
     "CPF": "iguais",
     "Nascimento": "iguais",
     "Nome Principal": "iguais",
     "Nome da Mãe": "iguais",
-    "Nome do Pai": "diferentes",
+    "Nome do Pai": "iguais",
     "Sexo": "iguais",
     "criadoEm": "2025-09-24T18:05:46.637Z",
-    "atualizadoEm": "2025-09-24T18:06:40.027Z"
+    "atualizadoEm": "2025-09-24T19:00:29.276Z"
   },
   {
     "hashProcesso": "01e1d014f37e80036a02bb963055a263b316b853266175766616ca058d4b676e",
